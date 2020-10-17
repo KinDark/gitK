@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Jpa/java6-jpa-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple-spring-master/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple-spring-master4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tarr2019java6-tdd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tarr2020java6" vcs="Git" />
+  </component>
+</project>
